@@ -1,0 +1,5 @@
+cv2==4.10.0
+selenium==4.29.0
+flask==3.1.0
+spacy==3.8.4
+fuzzywuzzy==0.18.0
